@@ -1,0 +1,15 @@
+---
+description: Butler Asia ops dashboard product invariants (FM, HK location, shared filters)
+alwaysApply: true
+---
+
+# Butler product rules
+
+- Primary persona is Facility Manager (Overview / OpsGlance). Board is secondary for supervisors.
+- Overview and Board share one filter state and one ticket fetch — do not fork.
+- Treat location (`15/F`, `G/F`, plant rooms) as navigation (chips, badges, API filter), not plain text.
+- Keep OpsGlance horizontally dense; avoid tall stacked marketing-style cards for triage.
+- JSON editing stays in the side drawer; main canvas stays ops-focused.
+- Do not add floor plans, auth, or SLA systems unless explicitly requested.
+- Prefer existing patterns: `OpsGlance`, `LocationBadge`, `FiltersContext`, `@dnd-kit`.
+- User-facing copy: ops product language only (no assessment/interview framing).

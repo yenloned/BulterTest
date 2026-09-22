@@ -1,0 +1,16 @@
+---
+description: React client conventions for Butler ops dashboard
+globs: client/**/*.{ts,tsx,css}
+alwaysApply: false
+---
+
+# Client conventions
+
+- Functional components + TypeScript; shared types in `client/src/types/ticket.ts`.
+- Data: `useTickets` + `FiltersContext` / `LayoutContext` — don’t fetch tickets ad hoc in widgets.
+- Interactive controls: use `.ix-chip` / `.ix-row` / `.ix-stat` or matching hover + `focus-visible`.
+- Location UI: `LocationBadge` (add `interactive` when parent is a chip/group).
+- DnD: `@dnd-kit` with grip handles; keep drag affordance without instructional banners.
+- Display switcher in `Header` stays icon-only with `aria-label` / `title`.
+- Styling: Tailwind + CSS variables in `index.css` (teal accent, dark canvas). Avoid purple-glow defaults.
+- After UI changes, ensure Overview and Board still share filter behavior.

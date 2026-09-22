@@ -1,0 +1,15 @@
+---
+description: Express tickets API and JSON data conventions
+globs: server/**/*.{js,mjs,json}
+alwaysApply: false
+---
+
+# Server conventions
+
+- Source of truth: `server/data/tickets.json`. Regenerate with `node server/data/generate.mjs`.
+- Multi-select query params are comma-separated (`status`, `category`, `priority`, `location`).
+- `GET /api/tickets` must return `facets` including `hotspots` and `needsAttention` for OpsGlance.
+- `PUT /api/tickets` must validate before write; never silently wipe on bad payload.
+- `PATCH /api/tickets/:id` updates status only (`Open` | `In Progress` | `Closed`).
+- Keep ESM + Express style consistent with `server/src/index.js`.
+- Prefer small, explicit helpers (`parseList`, `readTickets`, `writeTickets`) over new frameworks.

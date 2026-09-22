@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "title": "Aircon leaking on 15/F",
+    "status": "Open",
+    "category": "HVAC",
+    "priority": "High",
+    "created": "2026-06-01",
+    "location": "Lift lobby 12/F",
+    "assignee": "Cheung A."
+  },
+  {
+    "id": 2,
+    "title": "Lobby light flickering",
+    "status": "In Progress",
+    "category": "Electrical",
+    "priority": "Medium",
+    "created": "2026-06-03",
+    "location": "Podium 2/F",
+    "assignee": "Cheung A."
+  },
+  {
+    "id": 3,
+    "title": "Car park gate broken",
+    "status": "Closed",
+    "category": "Security",
+    "priority": "High",
+    "created": "2026-05-28",
+    "location": "Car park B1",
+    "assignee": "Ng P."
+  },
+  {
+    "id": 4,
+    "title": "Water pump noise",
+    "status": "Open",
+    "category": "Plumbing",
+    "priority": "Low",
+    "created": "2026-06-10",
+    "location": "AHU room 10/F",
+    "assignee": "Chan W."
+  },
+  {
+    "id": 5,
+    "title": "Lift button unresponsive",
+    "status": "In Progress",
+    "category": "Lift",
+    "priority": "High",
+    "created": "2026-06-12",
+    "location": "Fire stair A",
+    "assignee": "Unassigned"
+  },
+  {
+    "id": 6,
+    "title": "Rooftop drain blocked",
+    "status": "Open",
+    "category": "Civil",
+    "priority": "Medium",
+    "created": "2026-06-15",
+    "location": "Office 15/F",
+    "assignee": "Ho J."
+  },
+  {
+    "id": 7,
+    "title": "Fire alarm false trigger",
+    "status": "Closed",
+    "category": "Safety",
+    "priority": "High",
+    "created": "2026-05-20",
+    "location": "Office 3/F",
+    "assignee": "Unassigned"
+  },
+  {
+    "id": 8,
+    "title": "Office AC not cooling",
+    "status": "Open",
+    "category": "HVAC",
+    "priority": "Medium",
+    "created": "2026-06-18",
+    "location": "Office 3/F",
+    "assignee": "Tam S."
+  },
+  {
+    "id": 9,
+    "title": "Chiller pressure alarm",
+    "status": "Closed",
+    "category": "HVAC",
+    "priority": "Low",
+    "created": "2026-08-05",
+    "location": "Toilet 5/F",
+    "assignee": "Cheung A."
+  },
+  {
+    "id": 10,
+    "title": "Corridor emergency light out",
+    "status": "In Progress",
+    "category": "Electrical",
+    "priority": "Low",
+    "created": "2026-09-01",
+    "location": "Plant room B3",
+    "assignee": "Ng P."
+  },
+  {
+    "id": 11,
+    "title": "Toilet flush continuous",
+    "status": "In Progress",
+    "category": "Plumbing",
+    "priority": "High",
+    "created": "2026-06-04",
+    "location": "AHU room 10/F",
+    "assignee": "Unassigned"
+  },
+  {
+    "id": 12,
+    "title": "Lift door sensor fault",
+    "status": "In Progress",
+    "category": "Lift",
+    "priority": "High",
+    "created": "2026-09-14",
+    "location": "Podium 2/F",
+    "assignee": "Chan W."
+  },
+  {
+    "id": 13,
+    "title": "CCTV camera offline",
+    "status": "In Progress",
+    "category": "Security",
+    "priority": "Low",
+    "created": "2026-07-18",
+    "location": "Reception",
+    "assignee": "Chan W."
+  },
+  {
+    "id": 14,
+    "title": "Exit sign missing",
+    "status": "Open",
+    "category": "Safety",
+    "priority": "High",
+    "created": "2026-08-09",
+    "location": "Car park B1",
+    "assignee": "Ho J."
+  },
+  {
+    "id": 15,
+    "title": "Ceiling tile water stain",
+    "status": "Closed",
+    "category": "Civil",
+    "priority": "High",
+    "created": "2026-05-16",
+    "location": "Fire stair A",
+    "assignee": "Unassigned"
+  },
+  {
+    "id": 16,
+    "title": "Pantry drain smell",
+    "status": "Closed",
+    "category": "Plumbing",
+    "priority": "High",
+    "created": "2026-07-27",
+    "location": "Reception",
+    "assignee": "Wong K."
+  },
+  {
+    "id": 17,
+    "title": "AHU filter overdue",
+    "status": "Closed",
+    "category": "HVAC",
+    "priority": "High",
+    "created": "2026-08-31",
+    "location": "Rooftop",
+    "assignee": "Ho J."
+  },
+  {
+    "id": 18,
+    "title": "Socket sparking in pantry",
+    "status": "Closed",
+    "category": "Electrical",
+    "priority": "High",
+    "created": "2026-05-25",
+    "location": "Corridor 7/F",
+    "assignee": "Wong K."
+  },
+  {
+    "id": 19,
+    "title": "Access card reader slow",
+    "status": "Open",
+    "category": "Security",
+    "priority": "Medium",
+    "created": "2026-07-19",
+    "location": "Lift lobby 12/F",
+    "assignee": "Cheung A."
+  },
+  {
+    "id": 20,
+    "title": "Sprinkler head leaking",
+    "status": "In Progress",
+    "category": "Safety",
+    "priority": "Medium",
+    "created": "2026-08-18",
+    "location": "Office 3/F",
+    "assignee": "Wong K."
+  },
+  {
+    "id": 21,
+    "title": "Floor tile cracked near lift",
+    "status": "Open",
+    "category": "Civil",
+    "priority": "Medium",
+    "created": "2026-08-12",
+    "location": "Plant room B3",
+    "assignee": "Tam S."
+  },
+  {
+    "id": 22,
+    "title": "Pest sighting in refuse room",
+    "status": "Closed",
+    "category": "Pest",
+    "priority": "High",
+    "created": "2026-08-21",
+    "location": "Toilet 5/F",
+    "assignee": "Tam S."
+  },
+  {
+    "id": 23,
+    "title": "Lobby glass smear / streaking",
+    "status": "In Progress",
+    "category": "Cleaning",
+    "priority": "Low",
+    "created": "2026-08-03",
+    "location": "Retail unit 1",
+    "assignee": "Ng P."
+  },
+  {
+    "id": 24,
+    "title": "Escalator handrail dirty",
+    "status": "In Progress",
+    "category": "Cleaning",
+    "priority": "Medium",
+    "created": "2026-05-25",
+    "location": "Office 3/F",
+    "assignee": "Cheung A."
+  },
+  {
+    "id": 25,
+    "title": "Rodent bait station empty",
+    "status": "In Progress",
+    "category": "Pest",
+    "priority": "Low",
+    "created": "2026-06-04",
+    "location": "Rooftop",
+    "assignee": "Lee M."
+  },
+  {
+    "id": 26,
+    "title": "VAV box stuck open",
+    "status": "In Progress",
+    "category": "HVAC",
+    "priority": "Medium",
+    "created": "2026-09-17",
+    "location": "Reception",
+    "assignee": "Ho J."
+  },
+  {
+    "id": 27,
+    "title": "Main switch room humidity high",
+    "status": "In Progress",
+    "category": "Electrical",
+    "priority": "Medium",
+    "created": "2026-05-07",
+    "location": "Office 8/F",
+    "assignee": "Chan W."
+  },
+  {
+    "id": 28,
+    "title": "Hot water boiler trip",
+    "status": "In Progress",
+    "category": "Plumbing",
+    "priority": "Low",
+    "created": "2026-05-22",
+    "location": "Toilet 5/F",
+    "assignee": "Wong K."
+  },
+  {
+    "id": 29,
+    "title": "Lift shaft lighting dead",
+    "status": "Open",
+    "category": "Lift",
+    "priority": "High",
+    "created": "2026-08-23",
+    "location": "Reception",
+    "assignee": "Tam S."
+  },
+  {
+    "id": 30,
+    "title": "Turnstile jam at lobby",
+    "status": "In Progress",
+    "category": "Security",
+    "priority": "Medium",
+    "created": "2026-07-05",
+    "location": "Reception",
+    "assignee": "Ng P."
+  },
+  {
+    "id": 31,
+    "title": "Smoke detector dirty",
+    "status": "Closed",
+    "category": "Safety",
+    "priority": "Low",
+    "created": "2026-05-17",
+    "location": "Retail unit 1",
+    "assignee": "Lee M."
+  },
+  {
+    "id": 32,
+    "title": "External cladding loose panel",
+    "status": "Open",
+    "category": "Civil",
+    "priority": "High",
+    "created": "2026-06-16",
+    "location": "Lift lobby 12/F",
+    "assignee": "Ho J."
+  },
+  {
+    "id": 33,
+    "title": "Carpet stain at reception",
+    "status": "Closed",
+    "category": "Cleaning",
+    "priority": "Medium",
+    "created": "2026-07-29",
+    "location": "Office 3/F",
+    "assignee": "Ho J."
+  },
+  {
+    "id": 34,
+    "title": "Cockroach report 8/F pantry",
+    "status": "Open",
+    "category": "Pest",
+    "priority": "High",
+    "created": "2026-05-31",
+    "location": "Plant room B3",
+    "assignee": "Tam S."
+  },
+  {
+    "id": 35,
+    "title": "FCU dripping onto desk",
+    "status": "Open",
+    "category": "HVAC",
+    "priority": "Medium",
+    "created": "2026-08-10",
+    "location": "Pump room B2",
+    "assignee": "Tam S."
+  },
+  {
+    "id": 36,
+    "title": "Distribution board warm",
+    "status": "In Progress",
+    "category": "Electrical",
+    "priority": "High",
+    "created": "2026-07-04",
+    "location": "Switch room B1",
+    "assignee": "Ho J."
+  },
+  {
+    "id": 37,
+    "title": "Sump pump intermittent",
+    "status": "Open",
+    "category": "Plumbing",
+    "priority": "Medium",
+    "created": "2026-05-10",
+    "location": "Car park B2",
+    "assignee": "Wong K."
+  },
+  {
+    "id": 38,
+    "title": "Lift arrival chime broken",
+    "status": "In Progress",
+    "category": "Lift",
+    "priority": "Medium",
+    "created": "2026-09-06",
+    "location": "Corridor 7/F",
+    "assignee": "Ho J."
+  },
+  {
+    "id": 39,
+    "title": "Perimeter fence sensor false",
+    "status": "In Progress",
+    "category": "Security",
+    "priority": "Low",
+    "created": "2026-06-25",
+    "location": "Lobby G/F",
+    "assignee": "Unassigned"
+  },
+  {
+    "id": 40,
+    "title": "Fire hose reel pressure low",
+    "status": "In Progress",
+    "category": "Safety",
+    "priority": "High",
+    "created": "2026-06-20",
+    "location": "Office 3/F",
+    "assignee": "Chan W."
+  },
+  {
+    "id": 41,
+    "title": "Expansion joint seal failed",
+    "status": "In Progress",
+    "category": "Civil",
+    "priority": "Medium",
+    "created": "2026-05-22",
+    "location": "Office 15/F",
+    "assignee": "Tam S."
+  },
+  {
+    "id": 42,
+    "title": "Glass canopy bird droppings",
+    "status": "In Progress",
+    "category": "Cleaning",
+    "priority": "High",
+    "created": "2026-06-10",
+    "location": "Office 8/F",
+    "assignee": "Unassigned"
+  },
+  {
+    "id": 43,
+    "title": "Ant trail near loading bay",
+    "status": "Open",
+    "category": "Pest",
+    "priority": "Low",
+    "created": "2026-06-06",
+    "location": "Loading bay",
+    "assignee": "Wong K."
+  },
+  {
+    "id": 44,
+    "title": "Fresh air fan vibration",
+    "status": "Closed",
+    "category": "HVAC",
+    "priority": "High",
+    "created": "2026-05-23",
+    "location": "Loading bay",
+    "assignee": "Chan W."
+  },
+  {
+    "id": 45,
+    "title": "UPS battery warning",
+    "status": "Closed",
+    "category": "Electrical",
+    "priority": "Low",
+    "created": "2026-09-12",
+    "location": "Fire stair A",
+    "assignee": "Ng P."
+  },
+  {
+    "id": 46,
+    "title": "Grease trap overflowing",
+    "status": "Closed",
+    "category": "Plumbing",
+    "priority": "Medium",
+    "created": "2026-07-21",
+    "location": "Office 15/F",
+    "assignee": "Tam S."
+  },
+  {
+    "id": 47,
+    "title": "Goods lift floor uneven",
+    "status": "In Progress",
+    "category": "Lift",
+    "priority": "High",
+    "created": "2026-08-06",
+    "location": "Office 15/F",
+    "assignee": "Lee M."
+  },
+  {
+    "id": 48,
+    "title": "Boom barrier remote dead",
+    "status": "In Progress",
+    "category": "Security",
+    "priority": "Medium",
+    "created": "2026-05-06",
+    "location": "Toilet 5/F",
+    "assignee": "Tam S."
+  },
+  {
+    "id": 49,
+    "title": "Fire door not latching",
+    "status": "Closed",
+    "category": "Safety",
+    "priority": "Low",
+    "created": "2026-05-16",
+    "location": "Reception",
+    "assignee": "Lee M."
+  },
+  {
+    "id": 50,
+    "title": "Balcony railing rust",
+    "status": "Open",
+    "category": "Civil",
+    "priority": "Medium",
+    "created": "2026-05-07",
+    "location": "Fire stair A",
+    "assignee": "Ng P."
+  },
+  {
+    "id": 51,
+    "title": "Marble floor polish needed",
+    "status": "In Progress",
+    "category": "Cleaning",
+    "priority": "Low",
+    "created": "2026-06-10",
+    "location": "Reception",
+    "assignee": "Unassigned"
+  },
+  {
+    "id": 52,
+    "title": "Mosquito breeding in planter",
+    "status": "Open",
+    "category": "Pest",
+    "priority": "Medium",
+    "created": "2026-09-17",
+    "location": "Pump room B2",
+    "assignee": "Ng P."
+  },
+  {
+    "id": 53,
+    "title": "Condenser coil dirty",
+    "status": "Closed",
+    "category": "HVAC",
+    "priority": "Low",
+    "created": "2026-08-16",
+    "location": "Pump room B2",
+    "assignee": "Cheung A."
+  },
+  {
+    "id": 54,
+    "title": "Emergency generator test overdue",
+    "status": "In Progress",
+    "category": "Electrical",
+    "priority": "Medium",
+    "created": "2026-05-04",
+    "location": "Lobby G/F",
+    "assignee": "Lee M."
+  },
+  {
+    "id": 55,
+    "title": "Domestic cold water low pressure",
+    "status": "Open",
+    "category": "Plumbing",
+    "priority": "Medium",
+    "created": "2026-06-10",
+    "location": "Car park B1",
+    "assignee": "Chan W."
+  },
+  {
+    "id": 56,
+    "title": "Lift cabin mirror cracked",
+    "status": "Open",
+    "category": "Lift",
+    "priority": "High",
+    "created": "2026-07-10",
+    "location": "Staff pantry 6/F",
+    "assignee": "Tam S."
+  },
+  {
+    "id": 57,
+    "title": "Visitor QR gate offline",
+    "status": "Open",
+    "category": "Security",
+    "priority": "High",
+    "created": "2026-05-07",
+    "location": "Car park B2",
+    "assignee": "Wong K."
+  },
+  {
+    "id": 58,
+    "title": "Extinguisher tag expired",
+    "status": "Closed",
+    "category": "Safety",
+    "priority": "High",
+    "created": "2026-09-01",
+    "location": "Office 15/F",
+    "assignee": "Chan W."
+  },
+  {
+    "id": 59,
+    "title": "Stair nosing worn",
+    "status": "In Progress",
+    "category": "Civil",
+    "priority": "High",
+    "created": "2026-09-03",
+    "location": "Reception",
+    "assignee": "Wong K."
+  },
+  {
+    "id": 60,
+    "title": "Refuse chute jammed",
+    "status": "In Progress",
+    "category": "Cleaning",
+    "priority": "High",
+    "created": "2026-07-29",
+    "location": "Switch room B1",
+    "assignee": "Tam S."
+  },
+  {
+    "id": 61,
+    "title": "Termite mud tube found",
+    "status": "In Progress",
+    "category": "Pest",
+    "priority": "Medium",
+    "created": "2026-06-10",
+    "location": "Car park B2",
+    "assignee": "Wong K."
+  },
+  {
+    "id": 62,
+    "title": "Thermostat reading wrong",
+    "status": "In Progress",
+    "category": "HVAC",
+    "priority": "Medium",
+    "created": "2026-08-04",
+    "location": "Retail unit 1",
+    "assignee": "Cheung A."
+  },
+  {
+    "id": 63,
+    "title": "Parking bay light out",
+    "status": "Open",
+    "category": "Electrical",
+    "priority": "Low",
+    "created": "2026-06-03",
+    "location": "Podium 2/F",
+    "assignee": "Ho J."
+  },
+  {
+    "id": 64,
+    "title": "Urinal sensor stuck",
+    "status": "In Progress",
+    "category": "Plumbing",
+    "priority": "Low",
+    "created": "2026-09-01",
+    "location": "Loading bay",
+    "assignee": "Wong K."
+  },
+  {
+    "id": 65,
+    "title": "Lift overload sensor trip",
+    "status": "Open",
+    "category": "Lift",
+    "priority": "High",
+    "created": "2026-07-19",
+    "location": "AHU room 10/F",
+    "assignee": "Unassigned"
+  },
+  {
+    "id": 66,
+    "title": "Staff door maglock fail",
+    "status": "Open",
+    "category": "Security",
+    "priority": "Medium",
+    "created": "2026-09-09",
+    "location": "AHU room 10/F",
+    "assignee": "Chan W."
+  },
+  {
+    "id": 67,
+    "title": "CO detector fault plant room",
+    "status": "Open",
+    "category": "Safety",
+    "priority": "High",
+    "created": "2026-07-13",
+    "location": "Fire stair A",
+    "assignee": "Ng P."
+  },
+  {
+    "id": 68,
+    "title": "Paving slabs uneven podium",
+    "status": "In Progress",
+    "category": "Civil",
+    "priority": "Medium",
+    "created": "2026-07-30",
+    "location": "AHU room 10/F",
+    "assignee": "Wong K."
+  },
+  {
+    "id": 69,
+    "title": "Washroom soap dispenser empty",
+    "status": "In Progress",
+    "category": "Cleaning",
+    "priority": "High",
+    "created": "2026-05-21",
+    "location": "Office 3/F",
+    "assignee": "Ho J."
+  },
+  {
+    "id": 70,
+    "title": "Bee nest near rooftop",
+    "status": "In Progress",
+    "category": "Pest",
+    "priority": "High",
+    "created": "2026-05-23",
+    "location": "Podium 2/F",
+    "assignee": "Wong K."
+  },
+  {
+    "id": 71,
+    "title": "Duct insulation torn",
+    "status": "Open",
+    "category": "HVAC",
+    "priority": "Medium",
+    "created": "2026-07-21",
+    "location": "Staff pantry 6/F",
+    "assignee": "Lee M."
+  },
+  {
+    "id": 72,
+    "title": "Lighting contactor chatter",
+    "status": "In Progress",
+    "category": "Electrical",
+    "priority": "Low",
+    "created": "2026-09-03",
+    "location": "Corridor 7/F",
+    "assignee": "Wong K."
+  },
+  {
+    "id": 73,
+    "title": "Rainwater downpipe leak",
+    "status": "Open",
+    "category": "Plumbing",
+    "priority": "Medium",
+    "created": "2026-05-21",
+    "location": "AHU room 10/F",
+    "assignee": "Cheung A."
+  },
+  {
+    "id": 74,
+    "title": "Lift intercom no audio",
+    "status": "In Progress",
+    "category": "Lift",
+    "priority": "Low",
+    "created": "2026-06-28",
+    "location": "Office 15/F",
+    "assignee": "Lee M."
+  },
+  {
+    "id": 75,
+    "title": "Car park ANPR camera blur",
+    "status": "In Progress",
+    "category": "Security",
+    "priority": "High",
+    "created": "2026-08-06",
+    "location": "Office 15/F",
+    "assignee": "Wong K."
+  },
+  {
+    "id": 76,
+    "title": "Assembly point sign faded",
+    "status": "In Progress",
+    "category": "Safety",
+    "priority": "High",
+    "created": "2026-09-16",
+    "location": "AHU room 10/F",
+    "assignee": "Lee M."
+  },
+  {
+    "id": 77,
+    "title": "Window seal draft 15/F",
+    "status": "Open",
+    "category": "Civil",
+    "priority": "Low",
+    "created": "2026-05-18",
+    "location": "Office 15/F",
+    "assignee": "Lee M."
+  },
+  {
+    "id": 78,
+    "title": "Escalator step cleaning due",
+    "status": "Open",
+    "category": "Cleaning",
+    "priority": "High",
+    "created": "2026-05-03",
+    "location": "Toilet 5/F",
+    "assignee": "Ho J."
+  },
+  {
+    "id": 79,
+    "title": "Bird nest in canopy",
+    "status": "Open",
+    "category": "Pest",
+    "priority": "High",
+    "created": "2026-06-10",
+    "location": "Office 15/F",
+    "assignee": "Wong K."
+  },
+  {
+    "id": 80,
+    "title": "Chilled water valve seize",
+    "status": "Closed",
+    "category": "HVAC",
+    "priority": "High",
+    "created": "2026-05-24",
+    "location": "AHU room 10/F",
+    "assignee": "Unassigned"
+  }
+]
